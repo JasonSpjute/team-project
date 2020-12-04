@@ -1,0 +1,6 @@
+.bg-picture{
+  min-height: 50vh;
+  background-image: url("./pics/jdfarmmustgoonheader1366x346-113020.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
